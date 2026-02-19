@@ -1,0 +1,5 @@
+﻿  BlackBox.cpp
+C:\Users\lukas\OneDrive\Pulpit\PG\BlackBox\BlackBox\BlackBox.cpp(686,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\lukas\OneDrive\Pulpit\PG\BlackBox\BlackBox\BlackBox.cpp(668,1): warning C4715: "obslugaPolecen”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\lukas\OneDrive\Pulpit\PG\BlackBox\BlackBox\BlackBox.cpp(459,1): warning C4715: "dajIndexInfo”: niewszystkie ścieżki kodu zwracają wartość
+  BlackBox.vcxproj -> C:\Users\lukas\OneDrive\Pulpit\PG\BlackBox\x64\Debug\BlackBox.exe
